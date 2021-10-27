@@ -1,2 +1,2 @@
 # whitebox-week6-sqli
-Website coded with php and has sql injection on login form
+##This website had been coded using php and had sql injection on login form
